@@ -2,7 +2,7 @@ const { Telegraf } = require('telegraf');
 const QRCode = require('qrcode');
 
 module.exports = async (req, res) => {
-  const bot = new Telegraf(process.env.BOT_TOKEN);
+  const bot = new Telegraf(process.env.8146094042:AAH0MU9-QdyjM9b7wLb1vMF1uw-WnfLk-GQ);
 
   const ADMIN_KEY = "Cl339950";
   const PRICE = 60;
